@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-webpage-project/static/css/main.2a3765ae.css",
+    "main.js": "/react-webpage-project/static/js/main.b6764dec.js",
+    "static/js/787.5a1a17be.chunk.js": "/react-webpage-project/static/js/787.5a1a17be.chunk.js",
+    "static/media/michael-baccin-XopauR-Nagk-unsplash.jpg": "/react-webpage-project/static/media/michael-baccin-XopauR-Nagk-unsplash.3c5303215e4e1a9ffc1e.jpg",
+    "static/media/online-marketing-1246457.jpg": "/react-webpage-project/static/media/online-marketing-1246457.e098bd082daf07bd9e22.jpg",
+    "static/media/business-5475661.jpg": "/react-webpage-project/static/media/business-5475661.bd8b4db956eb0472fc9a.jpg",
+    "static/media/19198666.jpg": "/react-webpage-project/static/media/19198666.5bd079e5bb29bbd80617.jpg",
+    "static/media/digital-marketing-1944491.png": "/react-webpage-project/static/media/digital-marketing-1944491.f258b5abf31a8e951798.png",
+    "static/media/pexels-kevin-ku-577585.jpg": "/react-webpage-project/static/media/pexels-kevin-ku-577585.1b336ad8668953c0a113.jpg",
+    "static/media/digital-marketing-1563467.png": "/react-webpage-project/static/media/digital-marketing-1563467.0b64712350b73c7e419b.png",
+    "index.html": "/react-webpage-project/index.html",
+    "main.2a3765ae.css.map": "/react-webpage-project/static/css/main.2a3765ae.css.map",
+    "main.b6764dec.js.map": "/react-webpage-project/static/js/main.b6764dec.js.map",
+    "787.5a1a17be.chunk.js.map": "/react-webpage-project/static/js/787.5a1a17be.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2a3765ae.css",
+    "static/js/main.b6764dec.js"
+  ]
+}
