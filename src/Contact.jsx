@@ -12,14 +12,14 @@ const Contact = () => {
     });
     const InputEvent = (event)=>{
 
-        const{name,value}=event.target.value;
+        const{name,value}=event.target;
     
-    setData((preVal)=>{
+     setData((preVal)=>{
         return{
             ...preVal,[name]:value,
         };
     });
-};
+  };
 
 
 
@@ -42,11 +42,12 @@ const Contact = () => {
                             </div>
                             <div class="mb-3">
                                 <label for="exampleFormControlInput1" class="form-label">Phone</label>
-                                <input type="tel" class="form-control" id="exampleFormControlInput1"name="phone" value= {data.phone} onChange={InputEvent} placeholder="Enter Your Phone" />
+                                <input type="tel
+                                " class="form-control" id="exampleFormControlInput1" name="phone" value= {data.phone} onChange={InputEvent} placeholder="Enter Your Phone" />
                             </div>
                             <div class="mb-3">
                                 <label for="exampleFormControlInput1" class="form-label">Email address</label>
-                                <input type="email" class="form-control" id="exampleFormControlInput1"name="email" value={data.email} onChange={InputEvent} placeholder="name@example.com" />
+                                <input type="email" class="form-control" id="exampleFormControlInput1" name="email" value={data.email} onChange={InputEvent} placeholder="name@example.com" />
                             </div>
 
                             <div class="mb-3">
